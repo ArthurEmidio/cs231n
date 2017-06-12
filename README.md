@@ -1,4 +1,4 @@
-#CS231n Assignments
+# CS231n Assignments
 
 This repository contains my ongoing solutions of the assignments for Stanford's CS231n class named "Convolutional Neural Networks for Visual Recognition", which was offered in Winter 2016.
 
